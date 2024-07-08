@@ -1,10 +1,3 @@
-## Hi there 👋
-
-<!--
-**ananya128/ananya128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 💫 About Me:
 👋 Hi there! I’m Ananya Yadav, currently pursuing a Master’s in Information Systems Management at Carnegie Mellon University. I have a strong background in software engineering, with professional experience at Deloitte, Ernst and Young, and The Integrity Company. My expertise includes Java, Python, JavaScript, and a variety of frameworks and tools such as React.js, Node.js, Django, and AWS. I’m passionate about developing efficient and scalable solutions, as demonstrated in my projects and professional achievements. Explore my repositories to see my work in action
 
